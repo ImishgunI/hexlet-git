@@ -1,1 +1,1 @@
-new file .md
+new md
